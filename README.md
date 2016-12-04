@@ -14,3 +14,7 @@
     (2)将解压后的配置包拷贝进目录：/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 
     (3)重启电脑即可
+    
+ 
+### 三、拷贝截图
+![image](https://github.com/xiayuanquan/iOS10.0-10.1ConfigurationPackage/master/blob/demopic.png)
