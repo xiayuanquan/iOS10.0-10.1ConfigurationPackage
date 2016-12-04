@@ -17,4 +17,4 @@
     
  
 ### 三、拷贝截图
-![image](https://github.com/xiayuanquan/iOS10.0-10.1ConfigurationPackage/master/blob/demopic.png)
+![image](https://github.com/xiayuanquan/iOS10.0-10.1ConfigurationPackage/blob/master/demopic.png)
